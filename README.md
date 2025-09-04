@@ -1,6 +1,6 @@
 # Web Development Courses  
 
-This repository contains projects developed during the **IEEE YTU Web Development Courses**, a 4-week intensive program instructed by Berk Kaya. The course was designed to introduce the fundamentals of web development.  
+This repository contains projects developed during the **IEEE YTU Web Development Courses**, a 4-week intensive program instructed by Berk Kaya. The course was designed to introduce the fundamentals of web development, mainly through hands-on exercises and examples from [**freeCodeCamp**](https://www.freecodecamp.org/).  
 
 ## 📚 Course Content  
 Throughout the program, we covered:  
