@@ -10,5 +10,6 @@ Throughout the program, we covered:
 
 ---
 
-🚀 This repository reflects my journey of learning the basics of front-end development.  
-⭐ If you found this repository helpful or inspiring, don't forget to give it a **star**!  
+🚀 This repository reflects my journey of learning the basics of front-end development. 
+
+⭐ If you found this repository helpful or inspiring, don't forget to give it a star!  
