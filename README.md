@@ -11,7 +11,7 @@ Throughout the program, we covered:
 
 ## 🌐 Live Demo  
 You can view the course projects live through GitHub Pages:  
-- [Cat Photo App](https://busragizemyilmaz.github.io/WebDevelopmentCourses/CatPhotoApp.html)
+- [Cat Photo App](https://busragizemyilmaz.github.io/WebDevelopmentCourses/1-CatPhotoApp/CatPhotoApp.html)
   
 
 ---
