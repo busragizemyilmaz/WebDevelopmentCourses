@@ -8,6 +8,12 @@ Throughout the program, we covered:
 - **CSS** – Styling and layout  
 - **JavaScript** – Adding interactivity  
 
+
+## 🌐 Live Demo  
+You can view the course projects live through GitHub Pages:  
+- [Cat Photo App](https://busragizemyilmaz.github.io/WebDevelopmentCourses/CatPhotoApp.html)
+  
+
 ---
 
 🚀 This repository reflects my journey of learning the basics of front-end development. 
