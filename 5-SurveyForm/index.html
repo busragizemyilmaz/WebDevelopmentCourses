@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Survey Form - busragizemyilmaz</title>
+        <link href="styles.css" rel="stylesheet">
+    </head>
+    <body>
+        <h1 id="title">Survey Form</h1>
+        <p id="description">Thank you for taking the time to help me improve my skills in web coding</p>
+        <form id="survey-form">
+            <label id="name-label">Name<input id="name" type="text" name="name" placeholder="Enter your name" required></label>
+            <label id="email-label">Email<input id="email" type="email" name="email" placeholder="Enter your Email" required></label>
+            <label id="number-label">Age (optional)<input id="number" type="number" name="number" min="10" max="120"  placeholder="Age"></label>
+            <label id="select-label">Which field of software are you most interested in?
+                <select id="dropdown">
+                    <option>Select an option</option>
+                    <option>Web Development</option>
+                    <option>Mobile App Development</option>
+                    <option>Game Development</option>
+                    <option>Artificial Intelligence & Machine Learning</option>
+                    <option>Data Science & Big Data</option>
+                    <option>Cybersecurity</option>
+                    <option>Embedded Systems / IoT</option>
+                    <option>Cloud Computing & DevOps</option>
+                    <option>Software Testing / QA</option>
+                    <option>Blockchain</option>
+                    <option>Other</option>
+                </select> 
+            </label>
+            <label id="choice-label">What's your current role?
+                <input id="student" type="radio" name="role" value="student">Student
+                <input id="job" type="radio" name="role" value="job">Full Time Job
+                <input id="learner" type="radio" name="role" value="learner">Full Time Learner
+                <input id="other" type="radio" name="role" value="other">Other
+            </label>
+            <label id="referrer-label">Which sources do you use  the most to learn software development?
+                <input id="freeCodeCamp" type="checkbox" name="referrer" value="freeCodeCamp" checked>freeCodeCamp
+                <input id="YouTube" type="checkbox" name="referrer" value="YouTube">YouTube
+                <input id="Udemy" type="checkbox" name="referrer" value="Udemy">Udemy
+                <input id="Coursera" type="checkbox" name="referrer" value="Cousera">Coursera
+                <input id="edX" type="checkbox" name="referrer" value="edX">edX
+                <input id="Other" type="checkbox" name="referrer" value="Other">Other
+            </label>
+            <label id="textarea-label">If you choose 'Other' in any question, please write of details below.
+                <textarea id="forOther" name="forOther" rows="5" cols="30" placeholder="Enter your details here"></textarea>
+            </label>
+            <input id="submit" type="submit" name="submit" value="Submit">
+        </form>
+    </body>
+</html>
