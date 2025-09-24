@@ -11,10 +11,11 @@ Throughout the program, we covered:
 
 ## 🌐 Live Demo  
 You can view the course projects live through GitHub Pages:  
-- <a href="https://busragizemyilmaz.github.io/WebDevelopmentCourses/1-CatPhotoApp/CatPhotoApp.html" target="_blank">Cat Photo App</a>
-- <a href="https://busragizemyilmaz.github.io/WebDevelopmentCourses/2-CafeMenu/CafeMenu.html" target="_blank">Cafe Menu</a>
-- <a href="https://busragizemyilmaz.github.io/WebDevelopmentCourses/3-ColoredMarkers/ColoredMarkers.html" target="_blank">Colored Markers</a>
-- <a href="https://busragizemyilmaz.github.io/WebDevelopmentCourses/4-RegistrationForm/RegistrationForm.html" target="_blank">Registration Form</a>
+- <a href="https://busragizemyilmaz.github.io/WebDevelopmentCourses/1-CatPhotoApp/index.html" target="_blank">Cat Photo App</a>
+- <a href="https://busragizemyilmaz.github.io/WebDevelopmentCourses/2-CafeMenu/index.html" target="_blank">Cafe Menu</a>
+- <a href="https://busragizemyilmaz.github.io/WebDevelopmentCourses/3-ColoredMarkers/index.html" target="_blank">Colored Markers</a>
+- <a href="https://busragizemyilmaz.github.io/WebDevelopmentCourses/4-RegistrationForm/index.html" target="_blank">Registration Form</a>
+- <a href="https://busragizemyilmaz.github.io/WebDevelopmentCourses/SurveyForm/index.html" target="_blank">Survey Form</a>
 
 ---
 
